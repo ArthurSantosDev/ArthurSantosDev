@@ -1,5 +1,5 @@
 <img src="https://i.pinimg.com/originals/7a/83/82/7a8382edf9fa4b1dcbb23eaada75bb10.gif" style="width: 273px; height: auto;">
-<h2 align="center"> 👋 Opa, tudo bem? Meu nome  Arthur </h2>
+<h2 align="center"> 👋 Opa, tudo bem? Meu nome é Arthur </h2>
 <h3 align="center"> 
 📿 Sou um programador iniciante, com foco no Front-End 📿
  </h3>
