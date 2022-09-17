@@ -1,3 +1,6 @@
+<img 
+            src="http://pm1.narvii.com/8260/caf2e43615b7bd5d679d166b2a51a775062c98b3r1-500-500v2_00.jpg" 
+            class="pfp">
 <h2 align="center"> 👋 𝑶𝒑𝒂, 𝒄𝒐𝒎𝒐 𝒗𝒂𝒊? 𝑨𝒓𝒕𝒉𝒖𝒓 𝒂𝒒𝒖𝒊 :𝑫 ^^ </h2>
 <h3 align="center"> 
 💤📿 Apenas mais um ser trilhando o Caminho da Programação :D 📿💤
