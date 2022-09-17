@@ -19,8 +19,5 @@
 </ul>   
 
 <h2> Meus Projetos </h2>
-
 <ul>
   <li> Ainda estou aprendendo, então no momento ainda não tenho nenhum projeto publicado, mas sinta-se livre para dar uma olhada em alguns repositórios :)
- <li> Confira meu portfólio: https://meu-portfolio-inky.vercel.app/
-  <li> Página Sobre-Mim: 
