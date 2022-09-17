@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/7a/83/82/7a8382edf9fa4b1dcbb23eaada75bb10.gif" style="text-align: center;">
+<img src="https://i.pinimg.com/originals/7a/83/82/7a8382edf9fa4b1dcbb23eaada75bb10.gif" style="text-align: center; width: 547px; height: auto;">
 <h2 align="center"> 👋 𝑶𝒑𝒂, 𝒄𝒐𝒎𝒐 𝒗𝒂𝒊? 𝑨𝒓𝒕𝒉𝒖𝒓 𝒂𝒒𝒖𝒊 :𝑫 ^^ </h2>
 <h3 align="center"> 
 📿 Apenas mais um ser trilhando o Caminho da Programação :D 📿
