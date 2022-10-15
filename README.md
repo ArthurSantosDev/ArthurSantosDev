@@ -23,5 +23,5 @@
 <ul type="circle">
   <li> <i><b>Confira alguns de meus projetos:</b></i>
   <li> <a href="https://relogio-js-chi.vercel.app/">Relógio Com JavaScript (estudo)</a>
-  <li> <a href=""> Profile Card com CSS e JS</a>
+  <li> <a href="https://profile-card-xdef4lt.vercel.app/"> Profile Card com CSS e JS</a>
   <li> <a href="">Tela de Login Responsiva</a>
