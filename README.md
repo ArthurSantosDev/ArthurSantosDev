@@ -20,6 +20,6 @@
 <h3>𝑷𝒓𝒐𝒋𝒆𝒕𝒐𝒔</h3>
 <ul>
   <li> Confira alguns de meus projetos:
-  <li> <a href="" target="_blank" color="darkblue">Relógio Com JavaScript</a>
+  <li> <a href="" target="_blank" color="darkblue">Relógio Com JavaScript (estudo)</a>
   <li> <a href="" target="_blank"> Profile Card com CSS e JS</a>
   <li> <a href="" target="_blank">Tela de Login Responsiva</a>
