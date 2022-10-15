@@ -5,7 +5,7 @@
 <h2> ➢ 𝑺𝒐𝒃𝒓𝒆</h2>
 <p> Meu nome é <b>Arthur</b>, tenho 16 anos e gosto de <i>desenhar, jogar e ouvir música :D</i></p>
 
-<ul>
+<ul type="circ">
   <li> Designer 🎨
   <li> Artist 🖋
   <li> Gamer 🎮
@@ -20,7 +20,7 @@
 </p>
 <hr height="2" color="midnightblue">
 <h2> ➢ 𝑷𝒓𝒐𝒋𝒆𝒕𝒐𝒔</h2>
-<ul>
+<ul type="circ">
   <li> <i><b>Confira alguns de meus projetos:</b></i>
   <li> <a href="" target="_blank" color="darkblue">Relógio Com JavaScript (estudo)</a>
   <li> <a href="" target="_blank"> Profile Card com CSS e JS</a>
