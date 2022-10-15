@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />
 </p>
-
+<hr height="2" color="midnightblue">
 <h3>𝑷𝒓𝒐𝒋𝒆𝒕𝒐𝒔</h3>
 <ul>
   <li> Confira alguns de meus projetos:
