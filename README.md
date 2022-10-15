@@ -4,7 +4,7 @@
 <h3>▻ 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒂𝒅𝒐𝒓 𝑭𝒓𝒐𝒏𝒕-𝑬𝒏𝒅 𝑰𝒏𝒊𝒄𝒊𝒂𝒏𝒕𝒆</h3>
 
 <h3> ➢ 𝑺𝒐𝒃𝒓𝒆</h3>
-<p> Meu nome é <b>Arthur</b>, tenho 16 anos e tenho como hobbies desenhar, jogar e ouvir música :D</p>
+<p> Meu nome é <b>Arthur</b>, tenho 16 anos e gosto de <i>desenhar, jogar e ouvir música :D</i></p>
 
 <ul>
   <li> Designer 🎨
