@@ -1,4 +1,4 @@
-<img src="https://uploads.spiritfanfiction.com/historias/capitulos/202206/the-boy-from-the-bridge-24021274-020720221220.gif"/>
+<img src="https://uploads.spiritfanfiction.com/historias/capitulos/202206/the-boy-from-the-bridge-24021274-020720221220.gif" width="1000" height="800"/>
 
 <h2> Prazer, Arthur Santos </h2>
 <h3>Programador Front/Back-End Iniciante</h3>
