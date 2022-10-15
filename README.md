@@ -2,7 +2,7 @@
 
 <h2> Prazer, Arthur Santos </h2>
 <h3>Programador Front/Back-End Iniciante</h3>
-<p> Meu nome é <b>Arthur Moreira</b>, tenho 16 anos e tenho como hobbies desenhar, jogar e ouvir música</p>
+<p> Meu nome é <b>Arthur</b>, tenho 16 anos e tenho como hobbies desenhar, jogar e ouvir música :D</p>
 
 <ul>
   <li> Designer 🎨
