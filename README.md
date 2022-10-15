@@ -1,23 +1,9 @@
-<img src="https://i.pinimg.com/originals/7a/83/82/7a8382edf9fa4b1dcbb23eaada75bb10.gif" style="width: 273px; height: auto;">
-<h2 style="color: darkred;"> 👋 Opa, tudo bem? Meu nome é Arthur </h2>
-<h3 align="center"> 
-📿 Sou um programador iniciante, com foco no Front-End 📿
- </h3>
-<h2> Sobre Mim </h2> 
-<ul>
-<li>
- 🎂 → 16y
-</li>
-<li>
-  Designer
-</li>
- <li>
-  Artist
- </li>
-  <li> HTML / CSS
-  <li> Estudando as Linguagens Javascript e Python
-</ul>   
+<h2> Prazer, Arthur Santos </h2>
+<h3>Programador Front-End Iniciante</h3>
+<p> Meu nome é <b>Arthur Moreira</b>, tenho 16 anos e tenho como hobbies desenhar, jogar e ouvir música</p>
 
-<h2> Meus Projetos </h2>
 <ul>
-  <li> Ainda estou aprendendo, então no momento ainda não tenho nenhum projeto publicado, mas sinta-se livre para dar uma olhada em alguns repositórios :)
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+</ul>
