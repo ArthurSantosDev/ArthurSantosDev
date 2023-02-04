@@ -5,6 +5,8 @@
 <h2> ➢ 𝑺𝒐𝒃𝒓𝒆</h2>
 <p> Meu nome é <b>Arthur</b>, tenho 16 anos e gosto de <i>desenhar, jogar e ouvir música :D</i></p>
 
+<span id="teste"></span>
+
 <ul type="circle">
   <li> Designer 🎨
   <li> Artist 🖋
@@ -24,3 +26,9 @@
   <li> <i><b>Confira alguns de meus repositórios:</b></i>
   <li> <a href="https://profile-card-xdef4lt.vercel.app/"> Profile Card com CSS e JS</a>
   <li> <a href="https://tela-de-login-rouge.vercel.app/">Tela de Login Responsiva</a>
+</ul>
+ <script>
+   window.onload = () => {
+          document.getElementById('teste').innerHTML = 'Oi';
+   }
+  </script>
