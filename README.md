@@ -3,15 +3,10 @@
 <h1>🔹𝑷𝒓𝒂𝒛𝒆𝒓, 𝑨𝒓𝒕𝒉𝒖𝒓 𝑺𝒂𝒏𝒕𝒐𝒔</h1>
 
 <h2> ➢ 𝑺𝒐𝒃𝒓𝒆</h2>
-<p> Meu nome é <b>Arthur</b>, tenho 16 anos e gosto de <i>desenhar, jogar e ouvir música :D</i></p>
-
-<span id="teste"></span>
+<p> Meu nome é <b>Arthur</b>, tenho 17 anos e gosto de <i>desenhar, jogar e ouvir música :D</i></p>
 
 <ul type="circle">
   <li> Designer 🎨
-  <li> Artist 🖋
-  <li> Gamer 🎮
-  <li> Editor 🎥
   <li> Programador Fornt-End Iniciante 🖥️ 
 </ul>
 <h3>➢ 𝑷𝒐𝒔𝒔𝒖𝒐 𝒄𝒐𝒏𝒉𝒆𝒄𝒊𝒎𝒆𝒏𝒕𝒐𝒔 𝒆𝒎:<h3>
@@ -26,9 +21,5 @@
   <li> <i><b>Confira alguns de meus repositórios:</b></i>
   <li> <a href="https://profile-card-xdef4lt.vercel.app/"> Profile Card com CSS e JS</a>
   <li> <a href="https://tela-de-login-rouge.vercel.app/">Tela de Login Responsiva</a>
+  <li> <a href="https://calculadora-poo.vercel.app/">Calculadora com POO</a>
 </ul>
- <script>
-   window.onload = () => {
-          document.getElementById('teste').innerHTML = 'Oi';
-   }
-  </script>
