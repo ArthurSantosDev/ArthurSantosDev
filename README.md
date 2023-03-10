@@ -13,7 +13,7 @@
 <div style="display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_3086f8ada0c4bcd4ace947c62ba51b11/axure-rp.png" width="40" height="40">
 
 </div>
