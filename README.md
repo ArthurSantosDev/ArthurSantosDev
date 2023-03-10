@@ -10,11 +10,13 @@
   <li> Programador Fornt-End Iniciante 🖥️ 
 </ul>
 <h3>➢ 𝑷𝒐𝒔𝒔𝒖𝒐 𝒄𝒐𝒏𝒉𝒆𝒄𝒊𝒎𝒆𝒏𝒕𝒐𝒔 𝒆𝒎:<h3>
-<p>
+<div style="display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />
-</p>
+  <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_3086f8ada0c4bcd4ace947c62ba51b11/axure-rp.png" width="40" height="40">
+
+</div>
 <hr height="2" color="midnightblue">
 <h2> ➢ 𝑷𝒓𝒐𝒋𝒆𝒕𝒐𝒔</h2>
 <ul type="circle">
