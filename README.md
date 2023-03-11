@@ -23,6 +23,6 @@
 <ul type="circle">
   <li> <i><b>Confira alguns de meus repositórios:</b></i>
   <li> <a href="https://profile-card-xdef4lt.vercel.app/"> Profile Card com CSS e JS</a>
-  <li> <a href="https://tela-de-login-rouge.vercel.app/">Tela de Login Responsiva</a>
+  <li> <a href="login-animado-liart.vercel.app">Tela de Login Responsiva</a>
   <li> <a href="https://calculadora-poo.vercel.app/">Calculadora com POO</a>
 </ul>
