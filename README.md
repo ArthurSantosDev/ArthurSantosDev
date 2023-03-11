@@ -7,6 +7,13 @@
   <li> Programador Fornt-End Iniciante 🖥️ 
 </ul>
 
+<div align="center">
+  <a href"https://github.com/xDef4lt">   
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=safira-d&show_icons=true&theme=midnight-purple"></img>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safira-d&layout=compact&theme=midnight-purple"></div>
+  </a>
+</div>
+
 <div style="border: 2px solid #bb4949; border-radius: 5px; width: 450px;">
   <h3>➢ 𝑷𝒐𝒔𝒔𝒖𝒐 𝒄𝒐𝒏𝒉𝒆𝒄𝒊𝒎𝒆𝒏𝒕𝒐𝒔 𝒆𝒎:<h3>
   <div style="display: flex; gap: 25px;">
