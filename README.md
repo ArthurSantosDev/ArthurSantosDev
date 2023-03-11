@@ -11,7 +11,7 @@
 <div>
   <a href"https://github.com/xDefalt">   
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xDef4lt&show_icons=true&theme=midnight-purple"></img>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDefalt&layout=compact&theme=midnight-purple"></div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDefalt&layout=compact&theme=monokai"></div>
   </a>
 </div>
 
