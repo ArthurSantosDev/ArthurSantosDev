@@ -3,7 +3,7 @@
 <h1>🔹𝑷𝒓𝒂𝒛𝒆𝒓, 𝑨𝒓𝒕𝒉𝒖𝒓 𝑺𝒂𝒏𝒕𝒐𝒔</h1>
 
 <h2> ➢ 𝑺𝒐𝒃𝒓𝒆</h2>
-<p> Meu nome é <b>Arthur</b>, tenho 17 anos e gosto de <i>desenhar, jogar e ouvir música :D</i></p>
+<p> Meu nome é <b>Arthur</b>, tenho 17 anos e gosto de estou iniciando em Desenvolvimento Web.</p>
 
 <ul type="circle">
   <li> Programador Fornt-End Iniciante 🖥️ 
