@@ -1,6 +1,4 @@
-<img src="https://uploads.spiritfanfiction.com/historias/capitulos/202206/the-boy-from-the-bridge-24021274-020720221220.gif" width="1000" height="200"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=bb4949&center=true&vCenter=true&width=1000&lines=Prazer+,+Arthur+Santos.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&&size=34&weight=800&pause=1000&color=bb4949&center=true&vCenter=true&width=1000&lines=Prazer+,+Arthur+Santos.)](https://git.io/typing-svg)
 
 <h2> ➢ 𝑺𝒐𝒃𝒓𝒆</h2>
 <p> Meu nome é <b>Arthur</b>, tenho 17 anos e gosto de estou iniciando em Desenvolvimento Web.</p>
