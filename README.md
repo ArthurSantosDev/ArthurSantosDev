@@ -37,4 +37,4 @@
   <li> <a href="https://calculadora-poo.vercel.app/">Calculadora com POO</a>
 </ul>
 
- <img width=100% src="https://user-images.githubusercontent.com/116754904/220238928-652969fe-4fbf-4b28-a8fe-7329c06dc132.svg"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=eb3455&height=120&section=footer"/>
