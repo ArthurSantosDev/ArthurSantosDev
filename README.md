@@ -9,8 +9,8 @@
 
 <div>
   <a href"https://github.com/xDefalt">   
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xDef4lt&show_icons=true&theme=#bb4949"></img>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDefalt&layout=compact&theme=#bb4949"></div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xDef4lt&show_icons=true&theme=red"></img>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDefalt&layout=compact&theme=red"></div>
   </a>
 </div>
 
