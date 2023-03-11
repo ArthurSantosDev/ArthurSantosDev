@@ -2,6 +2,7 @@
 
 <h2 style="color: #bb4949;"> ➢ 𝑺𝒐𝒃𝒓𝒆</h2>
 <p> Meu nome é <strong>Arthur</strong>, tenho 17 anos e estou iniciando em Desenvolvimento Web, com foco em Front-End.</p>
+<p>Estou sempre procurando aprender e melhorar cada vez mais nessa área. Gostaria de poder colaborar com outros projetos Front-End também</p>
 
 <ul type="circle">
   <li> Programador Front-End Iniciante 🖥️ 
