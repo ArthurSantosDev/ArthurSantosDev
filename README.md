@@ -1,6 +1,6 @@
 <img src="https://uploads.spiritfanfiction.com/historias/capitulos/202206/the-boy-from-the-bridge-24021274-020720221220.gif" width="1000" height="200"/>
 
-<h1>🔹𝑷𝒓𝒂𝒛𝒆𝒓, 𝑨𝒓𝒕𝒉𝒖𝒓 𝑺𝒂𝒏𝒕𝒐𝒔</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=00008b&center=true&vCenter=true&width=1000&lines=Prazer+,+Arthur+Santos.)](https://git.io/typing-svg)
 
 <h2> ➢ 𝑺𝒐𝒃𝒓𝒆</h2>
 <p> Meu nome é <b>Arthur</b>, tenho 17 anos e gosto de estou iniciando em Desenvolvimento Web.</p>
