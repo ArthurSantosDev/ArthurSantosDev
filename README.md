@@ -7,7 +7,7 @@
   <li> Programador Fornt-End Iniciante 🖥️ 
 </ul>
 
-<fieldset>
+<div style="border: 2px solid #bb4949; border-radius: 5px; width: 450px;">
   <h3>➢ 𝑷𝒐𝒔𝒔𝒖𝒐 𝒄𝒐𝒏𝒉𝒆𝒄𝒊𝒎𝒆𝒏𝒕𝒐𝒔 𝒆𝒎:<h3>
   <div style="display: flex; gap: 25px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
@@ -15,7 +15,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="File:Python-logo-notext.svg - Wikipedia" width="40" height="40"/>
   </div>
-</fieldset>
+</div>
   
 <hr height="2" color="midnightblue">
   
