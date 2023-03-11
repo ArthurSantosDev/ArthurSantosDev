@@ -6,9 +6,9 @@
 <p> Meu nome é <b>Arthur</b>, tenho 17 anos e gosto de <i>desenhar, jogar e ouvir música :D</i></p>
 
 <ul type="circle">
-  <li> Designer 🎨
   <li> Programador Fornt-End Iniciante 🖥️ 
 </ul>
+
 <h3>➢ 𝑷𝒐𝒔𝒔𝒖𝒐 𝒄𝒐𝒏𝒉𝒆𝒄𝒊𝒎𝒆𝒏𝒕𝒐𝒔 𝒆𝒎:<h3>
 <div style="display: flex; gap: 25px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
