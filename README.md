@@ -4,7 +4,8 @@
 <p> Meu nome é <strong>Arthur</strong>, tenho 17 anos e estou iniciando em Desenvolvimento Web, com foco em Front-End.</p>
 
 <ul type="circle">
-  <li> Programador Fornt-End Iniciante 🖥️ 
+  <li> Programador Front-End Iniciante 🖥️ 
+  <li> Designer 🎨
 </ul>
 
 <div>
