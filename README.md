@@ -7,24 +7,19 @@
   <li> Programador Fornt-End Iniciante 🖥️ 
 </ul>
 
-<div style="display: flex;">
-  <h2> teste</h2>
 <div>
   <a href"https://github.com/xDefalt">   
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xDef4lt&show_icons=true&theme=midnight-purple"></img>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDefalt&layout=compact&theme=midnight-purple"></div>
   </a>
 </div>
-</div>
 
-<div style="border: 2px solid #bb4949; border-radius: 5px; width: 450px;">
-  <h3>➢ 𝑷𝒐𝒔𝒔𝒖𝒐 𝒄𝒐𝒏𝒉𝒆𝒄𝒊𝒎𝒆𝒏𝒕𝒐𝒔 𝒆𝒎:<h3>
-  <div style="display: flex; gap: 25px;">
+<h3>➢ 𝑷𝒐𝒔𝒔𝒖𝒐 𝒄𝒐𝒏𝒉𝒆𝒄𝒊𝒎𝒆𝒏𝒕𝒐𝒔 𝒆𝒎:<h3>
+<div style="display: flex; gap: 25px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="40" height="40"/>
-  </div>
 </div>
   
 <hr height="2" color="midnightblue">
