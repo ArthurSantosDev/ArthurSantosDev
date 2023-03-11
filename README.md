@@ -13,8 +13,8 @@
 
 <div>
   <a href"https://github.com/xDefalt">   
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xDef4lt&show_icons=true&theme=monokai"></img>
-  <img height="130em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDef4lt&theme=monokai&hide_border=false&&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xDef4lt&show_icons=true&theme=monokai&hide_border=false&&layout=compact"></img>
+  <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDef4lt&theme=monokai&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
