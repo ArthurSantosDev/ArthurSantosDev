@@ -7,10 +7,10 @@
   <li> Programador Fornt-End Iniciante 🖥️ 
 </ul>
 
-<div align="center">
-  <a href"https://github.com/xDef4lt">   
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?xDef4lt&show_icons=true&theme=midnight-purple"></img>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safira-d&layout=compact&theme=midnight-purple"></div>
+<div>
+  <a href"https://github.com/xDefalt">   
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xDef4lt&show_icons=true&theme=bb4949"></img>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDefalt&layout=compact&theme=bb4949"></div>
   </a>
 </div>
 
