@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&&size=34&weight=800&pause=1000&color=bb4949&center=true&vCenter=true&width=1000&lines=Prazer+,+Arthur+Santos.)](https://git.io/typing-svg)
 
 <h2 style="color: #bb4949;"> ➢ 𝑺𝒐𝒃𝒓𝒆</h2>
-<p> Meu nome é <strong>Arthur</strong>, tenho 17 anos e estou iniciando em Desenvolvimento Web, com foco em Front-End.</p>
-<p>Estou sempre procurando aprender e melhorar cada vez mais nessa área. Gostaria de poder colaborar com outros projetos Front-End também</p>
+<p> Meu nome é <strong>Arthur</strong>, tenho 17 anos e estou iniciando na área de Desenvolvimento Web.</p>
+<p>Estou sempre procurando aprender e melhorar cada vez mais nessa área. Gostaria de poder colaborar com outros projetos também</p>
 
 <ul type="circle">
   <li> Programador Front-End Iniciante 🖥️ 
@@ -13,7 +13,7 @@
 
 <div>
   <a href"https://github.com/xDefalt">   
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xDef4lt&show_icons=true&theme=monokai&hide_border=false&&layout=compact"></img>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xDef4lt&show_icons=true&theme=monokai&hide_border=false&&layout=compact">
   <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDef4lt&theme=monokai&hide_border=false&&layout=compact"/>
   </a>
 </div>
