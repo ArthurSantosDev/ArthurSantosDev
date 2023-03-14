@@ -44,7 +44,7 @@
 <a href="https://www.linkedin.com/in/arthur-santos-3b61a8267/">
    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="">
+<a href="https://github.com/xDef4lt">
   <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
