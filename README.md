@@ -27,8 +27,8 @@
   <img align="center" alt="py" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
-  
-<hr height="2" color="midnightblue">
+
+#
   
 <h2> ➢ 𝑷𝒓𝒐𝒋𝒆𝒕𝒐𝒔</h2>
 <ul type="circle">
@@ -43,6 +43,7 @@
   
 <a href="https://www.linkedin.com/in/arthur-santos-3b61a8267/">
    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=eb3455&height=120&section=footer"/>
