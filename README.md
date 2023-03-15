@@ -7,8 +7,9 @@
 <p>Estou sempre procurando aprender e melhorar cada vez mais nessa área. Gostaria de poder colaborar com outros projetos também</p>
 
 <ul type="circle">
-  <li> Programador Front-End Iniciante 🖥️ 
+  <li> Programador Iniciante 🖥️ 
   <li> Designer 🎨
+  <li> Estudante de Informática Para Internet no ITB Brasílio Flores de Azevedo, Barueri
 </ul>
 
 <div>
