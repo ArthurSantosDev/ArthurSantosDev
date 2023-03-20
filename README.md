@@ -14,8 +14,7 @@
 
 <div>
   <a href"https://github.com/xDefalt">   
-    [![Stats](https://github-readme-stats.vercel.app/api?username=xDef4lt&show_icons=true&theme=monokai&hide_border=false&&layout=compact)](index.html)
-  </iframe>
+    
   </a>
 </div>
 
