@@ -14,8 +14,9 @@
 
 <div>
   <a href"https://github.com/xDefalt">   
-    <img height="160em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=xDef4lt&show_icons=true&theme=monokai&hide_border=false&&layout=compact">
-    <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDef4lt&theme=monokai&hide_border=false&&layout=compact"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xDef4lt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDef4lt&layout=compact&langs_count=7&theme=dracula"/>
+
   </a>
 </div>
 
