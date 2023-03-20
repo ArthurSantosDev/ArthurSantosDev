@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&&size=44&weight=800&pause=1000&color=bb4949&center=true&vCenter=true&width=1000&lines=Prazer+,+Arthur+Santos.)](https://git.io/typing-svg)
 
-<h2 style="color: #bb4949; font-size: 40px;"> ➢ 𝑺𝒐𝒃𝒓𝒆</h2>
+<h2 style="color: #bb4949;"> ➢ 𝑺𝒐𝒃𝒓𝒆</h2>
 <p> Meu nome é <strong>Arthur</strong>, tenho 17 anos e estou iniciando na área de Desenvolvimento Web.</p>
 <p>Estou sempre procurando aprender e melhorar cada vez mais nessa área. Gostaria de poder colaborar com outros projetos também</p>
 
