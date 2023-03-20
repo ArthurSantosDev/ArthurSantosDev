@@ -14,7 +14,7 @@
 
 <div>
   <a href"https://github.com/xDefalt">   
-  <img height="160em" src="https://stats-xdef4lt.vercel.app/">
+  <iframe height="160em" src="https://stats-xdef4lt.vercel.app/">
   
   </a>
 </div>
