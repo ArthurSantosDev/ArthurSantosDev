@@ -33,8 +33,8 @@
 #
   
 <h2> ➢ 𝑷𝒓𝒐𝒋𝒆𝒕𝒐𝒔</h2>
+<p> <i><b>Confira alguns de meus repositórios:</b></i></p>
 <ul type="circle">
-  <li> <i><b>Confira alguns de meus repositórios:</b></i>
   <li> <a href="https://profile-card-xdef4lt.vercel.app/"> Profile Card com CSS e JS</a>
   <li> <a href="https://login-animado-liart.vercel.app">Tela de Login Responsiva</a>
   <li> <a href="https://calculadora-poo.vercel.app/">Calculadora com POO</a>
