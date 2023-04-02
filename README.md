@@ -16,8 +16,10 @@
    <li> Tenho interesse em colaborar com projetos Front-End ✔️
 </ul>
 
-#
+<p align="center"><strong><q>A persistência é o caminho do êxito.</q> - Charles Chaplin</strong></p>
 
+#
+<h2>➢ 𝑮𝒊𝒕𝒉𝒖𝒃 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔</h2>
 <div>
   <a href"https://github.com/xDefalt">   
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xDef4lt&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
