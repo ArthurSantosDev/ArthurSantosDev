@@ -17,7 +17,7 @@
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xDef4lt&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDef4lt&layout=compact&langs_count=7&theme=monokai"/>
   </a>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xDef4lt&&theme=monokai" alt="rishavchanda" /></p>
+  <p><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xDef4lt&&theme=monokai"/></p>
 </div>
 
 <h2>➢ 𝑷𝒐𝒔𝒔𝒖𝒐 𝒄𝒐𝒏𝒉𝒆𝒄𝒊𝒎𝒆𝒏𝒕𝒐𝒔 𝒆𝒎:<h2>
