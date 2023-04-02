@@ -46,7 +46,7 @@
    <img align="center" alt="vscode" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
    <img align="center" alt="git" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />       
    <img align="center" alt="figma" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-   <img align="center" alt="chrome" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
+   <img align="center" alt="chrome" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
 </div>
 
 <h2>➢ 𝑺𝒊𝒔𝒕𝒆𝒎𝒂 𝒐𝒑𝒆𝒓𝒂𝒄𝒊𝒐𝒏𝒂𝒍 </h2>
