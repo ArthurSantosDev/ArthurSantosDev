@@ -12,15 +12,12 @@
       <li> Programador Iniciante 🖥️ 
       <li> Designer 🎨
       <li> Estudante de Informática Para Internet no ITB Brasílio Flores de Azevedo, Barueri
-    </ul>
-
-    <ul type="circle">
       <li> Atualmente estou aprendendo meu primeiro framework front-end: <strong>Bootstrap</strong> <img width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     </ul>
   </div>
   
   <div>
-    <img height="120em" src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" alt="GitHub - SpyrexDE/SpyrexDE: SpyrexDE&#39;s GitHub Profile - Anime GIFs"/>
+    <img height="120em" align="right" src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" alt="GitHub - SpyrexDE/SpyrexDE: SpyrexDE&#39;s GitHub Profile - Anime GIFs"/>
   </div>
 </div>
 
