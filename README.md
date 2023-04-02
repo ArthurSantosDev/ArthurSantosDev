@@ -13,7 +13,7 @@
 </ul>
 
 <ul type="circle">
-  <li> Atualmente estou estudando meu primeiro framework: <strong>Bootstrap</strong> <i class="devicon-bootstrap-plain colored"></i>
+  <li> Atualmente estou estudando meu primeiro framework: <strong>Bootstrap</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </ul>
 
 <div>
