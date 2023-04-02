@@ -12,6 +12,10 @@
   <li> Estudante de Informática Para Internet no ITB Brasílio Flores de Azevedo, Barueri
 </ul>
 
+<ul type="circle">
+  <li> Atualmente estou estudando meu primeiro framework: <strong>Bootstrap</strong> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</ul>
+
 <div>
   <a href"https://github.com/xDefalt">   
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xDef4lt&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
