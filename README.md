@@ -15,7 +15,7 @@
 <ul type="circle">
   <li> Atualmente estou aprendendo meu primeiro framework front-end: <strong>Bootstrap</strong> <img width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </ul>
-
+#
 <div>
   <a href"https://github.com/xDefalt">   
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xDef4lt&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
@@ -23,7 +23,7 @@
   </a>
   <p><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xDef4lt&&theme=monokai"/></p>
 </div>
-
+#
 <h2>➢ 𝑷𝒐𝒔𝒔𝒖𝒐 𝒄𝒐𝒏𝒉𝒆𝒄𝒊𝒎𝒆𝒏𝒕𝒐𝒔 𝒆𝒎:<h2>
 <div style="display: inline-block;">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
