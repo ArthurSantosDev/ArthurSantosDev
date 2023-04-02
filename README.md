@@ -9,7 +9,6 @@
 
 <p> Meu nome é <strong>Arthur</strong>, tenho 17 anos e estou iniciando na área de Desenvolvimento Web.</p>
 <p>Estou sempre procurando aprender e melhorar cada vez mais nessa área.</p>
-<p> Você pode visualizar meus projetos Front-End 
 
 <ul type="circle">
    <li> Programador Iniciante 🖥️ 
