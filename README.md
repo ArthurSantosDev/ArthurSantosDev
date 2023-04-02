@@ -53,15 +53,13 @@
 <h2> ➢ 𝑷𝒓𝒐𝒋𝒆𝒕𝒐𝒔</h2>
 <p> <i><b>Confira alguns de meus repositórios:</b></i></p>
 <p> <strong> Projetos Front-End </p>
-<div> 
-  <a href="https://login-animado-liart.vercel.app">
-      <img align="center" height="210em" src="https://user-images.githubusercontent.com/108244695/229372540-102dc3bf-b80d-417c-b261-767a1b633451.png"><br>
-      <p align="center">Music-player com JS</p>
-   </a>
-  <a href="https://calculadora-poo.vercel.app/">Calculadora com POO</a>
-  <a href="https://relogio-navy.vercel.app/">Relógio com JS</a>
-  <a href="https://quimicafacil.vercel.app/">Meu Primeiro Projeto com CSS Grid Layout</a>
-</div>
+<ul type="circle"> 
+  <li><a href="https://login-animado-liart.vercel.app">Tela de Login Responsiva</a>
+  <li><a href="https://calculadora-poo.vercel.app/">Calculadora com POO</a>
+  <li><a href="https://relogio-navy.vercel.app/">Relógio com JS</a>
+  <li><a href="https://music-player-js-one.vercel.app/">Music-player com JS</a>
+  <li><a href="https://quimicafacil.vercel.app/">Meu Primeiro Projeto com CSS Grid Layout</a>
+</ul>
   
 #
 
