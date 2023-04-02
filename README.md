@@ -26,8 +26,6 @@
   <p><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xDef4lt&&theme=monokai"/></p>
 </div>
 
-#
-
 <h2>➢ 𝑷𝒐𝒔𝒔𝒖𝒐 𝒄𝒐𝒏𝒉𝒆𝒄𝒊𝒎𝒆𝒏𝒕𝒐𝒔 𝒆𝒎:<h2>
 <div style="display: inline-block;">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
