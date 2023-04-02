@@ -56,8 +56,8 @@
 <ul type="circle">
   <li> 
   <a href="https://login-animado-liart.vercel.app">
-      <img src="blob:chrome-untrusted://media-app/5108d935-acef-4eae-87c8-4df8bd361f15"/>
-      <p align="center">Tela de Login Responsiva</p>
+      ![image](https://user-images.githubusercontent.com/108244695/229372540-102dc3bf-b80d-417c-b261-767a1b633451.png)
+      <p align="center">Music-player com JS</p>
    </a> </li>
   <li> <a href="https://calculadora-poo.vercel.app/">Calculadora com POO</a>
   <li> <a href="https://relogio-navy.vercel.app/">Relógio com JS</a>
