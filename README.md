@@ -8,13 +8,14 @@
 
 
 <p> Meu nome é <strong>Arthur</strong>, tenho 17 anos e estou iniciando na área de Desenvolvimento Web.</p>
-<p>Estou sempre procurando aprender e melhorar cada vez mais nessa área. Gostaria de poder colaborar com outros projetos também</p>
+<p>Estou sempre procurando aprender e melhorar cada vez mais nessa área.</p>
 
 <ul type="circle">
    <li> Programador Iniciante 🖥️ 
    <li> Designer 🎨
-   <li> Estudante de Informática Para Internet no ITB Brasílio Flores de Azevedo, Barueri
+   <li> Estudante de Informática Para Internet no ITB Brasílio Flores de Azevedo, Barueri 🏫
    <li> Atualmente estou aprendendo meu primeiro framework front-end: <strong>Bootstrap</strong> <img width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+   <li> Tenho interesse em colaborar com projetos Front-End ✔️
 </ul>
 
 #
