@@ -48,7 +48,8 @@
    <img align="center" alt="figma" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
 
-<h2>➢ 𝑶𝑺: <img align="center" alt="linux" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></h2>
+<h2>➢ 𝑺𝒊𝒔𝒕𝒆𝒎𝒂 𝒐𝒑𝒆𝒓𝒂𝒄𝒊𝒐𝒏𝒂𝒍 </h2>
+<img align="center" alt="linux" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   
 <h2> ➢ 𝑷𝒓𝒐𝒋𝒆𝒕𝒐𝒔</h2>
 <p> <i><b>Confira alguns de meus repositórios:</b></i></p>
