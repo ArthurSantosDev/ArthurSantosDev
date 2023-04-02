@@ -54,7 +54,11 @@
 <p> <i><b>Confira alguns de meus repositórios:</b></i></p>
 <p> <strong> Projetos Front-End </p>
 <ul type="circle">
-  <li> <a href="https://login-animado-liart.vercel.app">Tela de Login Responsiva</a>
+  <li> 
+  <a href="https://login-animado-liart.vercel.app">
+      <img src="blob:chrome-untrusted://media-app/5108d935-acef-4eae-87c8-4df8bd361f15" alt="Screenshot 2023-04-02 15.41.44.png"/>
+      <p align="center">Tela de Login Responsiva</p>
+   </a> </li>
   <li> <a href="https://calculadora-poo.vercel.app/">Calculadora com POO</a>
   <li> <a href="https://relogio-navy.vercel.app/">Relógio com JS</a>
   <li> <a href="https://quimicafacil.vercel.app/">Meu Primeiro Projeto com CSS Grid Layout</a>
