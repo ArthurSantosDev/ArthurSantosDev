@@ -16,6 +16,8 @@
    <li> Tenho interesse em colaborar com projetos Front-End ✔️
 </ul>
 
+#
+
 <p align="center"><strong><q>A persistência é o caminho do êxito.</q> - Charles Chaplin</strong></p>
 
 #
