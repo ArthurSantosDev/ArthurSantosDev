@@ -56,7 +56,7 @@
 <ul type="circle">
   <li> 
   <a href="https://login-animado-liart.vercel.app">
-      ![image](https://user-images.githubusercontent.com/108244695/229372540-102dc3bf-b80d-417c-b261-767a1b633451.png)
+      <img src="https://user-images.githubusercontent.com/108244695/229372540-102dc3bf-b80d-417c-b261-767a1b633451.png">
       <p align="center">Music-player com JS</p>
    </a> </li>
   <li> <a href="https://calculadora-poo.vercel.app/">Calculadora com POO</a>
