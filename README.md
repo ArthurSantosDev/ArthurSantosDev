@@ -4,7 +4,6 @@
 
 <h2 style="color: #bb4949;"> ➢ 𝑺𝒐𝒃𝒓𝒆</h2>
 <div style="display: inline-block">
-  <div>
     <p> Meu nome é <strong>Arthur</strong>, tenho 17 anos e estou iniciando na área de Desenvolvimento Web.</p>
     <p>Estou sempre procurando aprender e melhorar cada vez mais nessa área. Gostaria de poder colaborar com outros projetos também</p>
 
@@ -14,7 +13,6 @@
       <li> Estudante de Informática Para Internet no ITB Brasílio Flores de Azevedo, Barueri
       <li> Atualmente estou aprendendo meu primeiro framework front-end: <strong>Bootstrap</strong> <img width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     </ul>
-  </div>
   
   <div>
     <img height="120em" align="right" src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" alt="GitHub - SpyrexDE/SpyrexDE: SpyrexDE&#39;s GitHub Profile - Anime GIFs"/>
