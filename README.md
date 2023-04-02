@@ -54,7 +54,8 @@
 </ul>
   
 #
-  
+
+<h2> ➢ 𝑹𝒆𝒅𝒆𝒔 𝑺𝒐𝒄𝒊𝒂𝒊𝒔 </h2>   
 <div style="text-align: center;">
   <a href="https://www.linkedin.com/in/arthur-santos-3b61a8267/">
      <img align"center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
