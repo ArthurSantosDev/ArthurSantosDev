@@ -56,7 +56,7 @@
 <ul type="circle">
   <li> 
   <a href="https://login-animado-liart.vercel.app">
-      <img src="blob:chrome-untrusted://media-app/5108d935-acef-4eae-87c8-4df8bd361f15" alt="Screenshot 2023-04-02 15.41.44.png"/>
+      <img src="blob:chrome-untrusted://media-app/5108d935-acef-4eae-87c8-4df8bd361f15"/>
       <p align="center">Tela de Login Responsiva</p>
    </a> </li>
   <li> <a href="https://calculadora-poo.vercel.app/">Calculadora com POO</a>
