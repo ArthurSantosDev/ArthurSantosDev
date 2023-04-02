@@ -41,7 +41,7 @@
    <img align="center" alt="python" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
    
    <img align="center" alt="vscode" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />       
+   <img align="center" alt="git" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />       
    <img align="center" alt="webstorm" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" />
    <img align="center" alt="figma" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
    <img align="center" alt="linux" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />                
