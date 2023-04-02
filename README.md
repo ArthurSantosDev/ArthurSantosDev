@@ -13,7 +13,7 @@
 </ul>
 
 <ul type="circle">
-  <li> Atualmente estou estudando meu primeiro framework: <strong>Bootstrap</strong> <img width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <li> Atualmente estou aprendendo meu primeiro framework: <strong>Bootstrap</strong> <img width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </ul>
 
 <div>
