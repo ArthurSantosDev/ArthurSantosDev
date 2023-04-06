@@ -26,16 +26,16 @@
 <h2>➢ 𝑮𝒊𝒕𝒉𝒖𝒃 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔</h2>
 <div>
   <a href"https://github.com/xDefalt">   
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xDef4lt&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDef4lt&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xDef4lt&show_icons=true&hide_border=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDef4lt&layout=compact&&hide_border=true&langs_count=7&theme=chartreuse-dark"/>
   </a>
-  <p><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xDef4lt&&theme=chartreuse-dark"/></p>
+  <p><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xDef4lt&&hide_border=true&theme=chartreuse-dark"/></p>
 </div>
 
 #
 
 <h2>➢ 𝑳𝒊𝒏𝒈𝒖𝒂𝒈𝒆𝒏𝒔 𝒆 𝑭𝒆𝒓𝒓𝒂𝒎𝒆𝒏𝒕𝒂𝒔<h2>
-<div style="display: inline-block;">
+<div style="display: inline-block;" align="center">
    <img align="center" alt="html" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />       
    <img align="center" alt="css" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />  
    <img align="center" alt="js" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -46,7 +46,7 @@
 </div>
  
 <h2>➢ 𝑭𝒆𝒓𝒓𝒂𝒎𝒆𝒏𝒕𝒂𝒔 </h2>
-<div style="display: inline-block">
+<div style="display: inline-block" align="center">
    <img align="center" alt="vscode" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
    <img align="center" alt="git" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />       
    <img align="center" alt="figma" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
@@ -54,7 +54,10 @@
 </div>
 
 <h2>➢ 𝑺𝒊𝒔𝒕𝒆𝒎𝒂 𝒐𝒑𝒆𝒓𝒂𝒄𝒊𝒐𝒏𝒂𝒍 </h2>
-<img align="center" alt="linux" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<div align="center">
+   <img align="center" alt="linux" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+   <img align="center" alt="windows" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+</div>
   
 <h2> ➢ 𝑷𝒓𝒐𝒋𝒆𝒕𝒐𝒔</h2>
    
@@ -74,7 +77,7 @@
 #
 
 <h2> ➢ 𝑹𝒆𝒅𝒆𝒔 𝑺𝒐𝒄𝒊𝒂𝒊𝒔 </h2>   
-<div style="text-align: center;">
+<div align="center">
   <a href="https://www.linkedin.com/in/arthur-santos-3b61a8267/">
      <img align"center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
