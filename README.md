@@ -34,8 +34,8 @@
 
 #
 
-<h2>➢ 𝑳𝒊𝒏𝒈𝒖𝒂𝒈𝒆𝒏𝒔 𝒆 𝑭𝒆𝒓𝒓𝒂𝒎𝒆𝒏𝒕𝒂𝒔<h2>
-<div style="display: inline-block;" align="center">
+<h2>➢ 𝑳𝒊𝒏𝒈𝒖𝒂𝒈𝒆𝒏𝒔<h2>
+<div style="display: inline-block;">
    <img align="center" alt="html" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />       
    <img align="center" alt="css" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />  
    <img align="center" alt="js" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -46,7 +46,7 @@
 </div>
  
 <h2>➢ 𝑭𝒆𝒓𝒓𝒂𝒎𝒆𝒏𝒕𝒂𝒔 </h2>
-<div style="display: inline-block" align="center">
+<div style="display: inline-block">
    <img align="center" alt="vscode" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
    <img align="center" alt="git" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />       
    <img align="center" alt="figma" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
@@ -54,7 +54,7 @@
 </div>
 
 <h2>➢ 𝑺𝒊𝒔𝒕𝒆𝒎𝒂 𝒐𝒑𝒆𝒓𝒂𝒄𝒊𝒐𝒏𝒂𝒍 </h2>
-<div align="center">
+<div>
    <img align="center" alt="linux" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
    <img align="center" alt="windows" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 </div>
