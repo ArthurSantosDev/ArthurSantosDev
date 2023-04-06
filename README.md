@@ -1,4 +1,4 @@
-<img width=100% src="https://camo.githubusercontent.com/66a9c81f8f0ab13cd64483549d831c851832a5535cfb46b2b3c9c7f384b0c79c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d23393332356661"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=75ff75&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&&size=44&weight=800&pause=1000&color=75ff75&center=true&vCenter=true&width=1000&lines=Prazer+,+Arthur+Santos.)](https://git.io/typing-svg)
 
