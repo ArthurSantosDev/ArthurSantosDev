@@ -61,7 +61,8 @@
   
 <h2> ➢ 𝑷𝒓𝒐𝒋𝒆𝒕𝒐𝒔</h2>
    
-<p> <i><b>Confira alguns de meus repositórios:</b></i></p>   
+<p> <i><b>Confira alguns de meus repositórios:</b></i></p> 
+
 <p> <strong> Projetos Front-End </p>
 <ul type="circle"> 
   <li><a href="https://login-animado-liart.vercel.app">Tela de Login Responsiva</a>
