@@ -61,8 +61,6 @@
   
 <h2> ➢ 𝑷𝒓𝒐𝒋𝒆𝒕𝒐𝒔</h2>
    
-<img align="right" height="280em" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
-   
 <p> <i><b>Confira alguns de meus repositórios:</b></i></p>   
 <p> <strong> Projetos Front-End </p>
 <ul type="circle"> 
