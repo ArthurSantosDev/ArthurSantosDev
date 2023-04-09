@@ -31,6 +31,9 @@
      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDef4lt&layout=compact&&hide_border=true&langs_count=7&theme=chartreuse-dark"/>
   </a>
   <p><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xDef4lt&&hide_border=true&theme=chartreuse-dark"/></p>
+   <p align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=xDef4lt&theme=matrix">
+   </p>
 </div>
 
 #
