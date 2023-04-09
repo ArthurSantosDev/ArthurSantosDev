@@ -4,7 +4,7 @@
 
 <h2 style="color: #bb4949;"> ➢ 𝑺𝒐𝒃𝒓𝒆</h2>
 
-<img align="right" height="280em" src="https://media.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" />
+<img align="right" height="290em" src="https://media.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" />
 
 
 <p> Meu nome é <strong>Arthur</strong>, tenho 17 anos.</p>
