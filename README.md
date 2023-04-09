@@ -32,7 +32,7 @@
   </a>
   <p><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xDef4lt&&hide_border=true&theme=chartreuse-dark"/></p>
    <p align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=xDef4lt&theme=matrix">
+      <img src="https://github-profile-trophy.vercel.app/?username=xDef4lt&&hide_border=true&theme=matrix">
    </p>
 </div>
 
