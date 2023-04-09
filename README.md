@@ -7,7 +7,8 @@
 <img align="right" height="220em" src="https://media.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" />
 
 
-<p> Meu nome é <strong>Arthur</strong>, tenho 17 anos e estou iniciando na área de Desenvolvimento Web.</p>
+<p> Meu nome é <strong>Arthur</strong>, tenho 17 anos.</p>
+<p>Estou iniciando na área de Desenvolvimento Web.</p>
 <p>Estou sempre procurando aprender e melhorar cada vez mais nessa área.</p>
 
 <ul type="circle">
