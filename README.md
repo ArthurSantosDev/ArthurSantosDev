@@ -70,11 +70,11 @@
 <p> <strong> Projetos Front-End </p>
 <ul type="circle"> 
   <li><a href="https://login-animado-liart.vercel.app">Tela de Login Responsiva</a>
-  <li><a href="https://calculadora-poo.vercel.app/">Calculadora com POO</a>
-  <li><a href="https://relogio-navy.vercel.app/">Relógio com JS</a>
-  <li><a href="https://music-player-js-one.vercel.app/">Music-player com JS</a>
-  <li><a href="https://quimicafacil.vercel.app/">Meu Primeiro Projeto com CSS Grid Layout</a>
-  <li><a href="https://navbar-responsiva.vercel.app/">DevCoffee: Treino de Responsividade</a>
+  <li><a href="https://calculadora-poo.vercel.app">Calculadora com POO</a>
+  <li><a href="https://relogio-navy.vercel.app">Relógio com JS</a>
+  <li><a href="https://music-player-js-one.vercel.app">Music-player com JS</a>
+  <li><a href="https://quimicafacil.vercel.app">Meu Primeiro Projeto com CSS Grid Layout</a>
+  <li><a href="https://slider-js-ten.vercel.app/">Slider com JS</a>
 </ul>
   
 #
