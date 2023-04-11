@@ -28,7 +28,7 @@
 <div>
   <a href"https://github.com/xDefalt">   
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xDef4lt&show_icons=true&hide_border=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDef4lt&layout=compact&&hide_border=true&langs_count=7&theme=chartreuse-dark"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDef4lt&layout=compact&&hide_border=true&langs_count=7&theme=chartreuse-dark"/>
   </a>
   <p><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xDef4lt&&hide_border=true&theme=chartreuse-dark"/></p>
    <p align="center">
