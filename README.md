@@ -40,8 +40,8 @@
 
 <h2>➢ 𝑳𝒊𝒏𝒈𝒖𝒂𝒈𝒆𝒏𝒔<h2>
 <div style="display: inline-block;">
-   <img align="center" alt="html" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />       
-   <img align="center" alt="css" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />  
+   <img align="center" alt="html" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+   <img align="center" alt="css" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
    <img align="center" alt="js" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
    
    <img align="center" alt="ts" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
