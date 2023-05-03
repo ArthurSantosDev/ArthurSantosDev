@@ -56,6 +56,11 @@
    <img align="center" alt="figma" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
    <img align="center" alt="chrome" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
 </div>
+   
+<h2>➢ 𝑬𝒔𝒕𝒖𝒅𝒂𝒏𝒅𝒐 𝒏𝒐 𝒎𝒐𝒎𝒆𝒏𝒕𝒐...</h2>
+   <div style="display: inline-block">
+      <img align="center" alt="bootstrap" height="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+   </div>
 
 <h2>➢ 𝑺𝒊𝒔𝒕𝒆𝒎𝒂 𝒐𝒑𝒆𝒓𝒂𝒄𝒊𝒐𝒏𝒂𝒍 </h2>
 <div>
