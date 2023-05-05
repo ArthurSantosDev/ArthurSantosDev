@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=75ff75&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=048f6c&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&&size=44&weight=800&pause=1000&color=75ff75&center=true&vCenter=true&width=1000&lines=Prazer+,+Arthur+Santos.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&&size=44&weight=800&pause=1000&color=048f6c&center=true&vCenter=true&width=1000&lines=Prazer+,+Arthur+Santos.)](https://git.io/typing-svg)
 
 <h2 style="color: #bb4949;"> ➢ 𝑺𝒐𝒃𝒓𝒆</h2>
 
@@ -27,13 +27,10 @@
 <h2>➢ 𝑮𝒊𝒕𝒉𝒖𝒃 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔</h2>
 <div>
   <a href"https://github.com/xDefalt">   
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xDef4lt&show_icons=true&hide_border=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDef4lt&layout=compact&&hide_border=true&langs_count=7&theme=chartreuse-dark"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xDef4lt&show_icons=true&hide_border=true&theme=gotham&include_all_commits=true&count_private=true"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDef4lt&layout=compact&&hide_border=true&langs_count=7&theme=gotham"/>
   </a>
-  <p><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xDef4lt&&hide_border=true&theme=chartreuse-dark"/></p>
-   <p align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=xDef4lt&theme=matrix">
-   </p>
+  <p><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xDef4lt&&hide_border=true&theme=gotham"/></p>
 </div>
 
 #
@@ -98,4 +95,4 @@
   </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=75ff75&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=048f6c&height=120&section=footer"/>
