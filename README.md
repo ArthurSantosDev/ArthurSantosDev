@@ -21,7 +21,7 @@
 
 #
 
-<p align="center"><strong><q>A persistência é o caminho do êxito.</q> - Charlie Chaplin</strong></p>
+<h3 align="center"><q>A persistência é o caminho do êxito.</q> - Charlie Chaplin</h3>
 
 #
 <h2>➢ 𝑮𝒊𝒕𝒉𝒖𝒃 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔</h2>
