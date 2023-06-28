@@ -77,7 +77,7 @@
   <li><a href="https://relogio-navy.vercel.app">Relógio com JS</a>
   <li><a href="https://music-player-js-one.vercel.app">Music-player com JS</a>
   <li><a href="https://quimicafacil.vercel.app">Meu Primeiro Projeto com CSS Grid Layout</a>
-  <li><a href="https://slider-js-ten.vercel.app/">Slider com JS</a>
+  <li><a href="https://background-slider-tawny.vercel.app/">Slider com JS</a>
 </ul>
   
 #
