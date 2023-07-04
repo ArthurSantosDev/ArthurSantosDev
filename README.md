@@ -27,10 +27,9 @@
 <h2>➢ 𝑮𝒊𝒕𝒉𝒖𝒃 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔</h2>
 <div>
   <a href"https://github.com/xDefalt">   
-     <img height="145em" src="https://github-readme-stats.vercel.app/api?username=xDef4lt&show_icons=true&hide_border=true&theme=gotham&include_all_commits=true&count_private=true"/>
-     <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDef4lt&layout=compact&&hide_border=true&langs_count=7&theme=gotham"/>
+     <img align="center" height="232em" src="https://github-readme-stats.vercel.app/api?username=xDef4lt&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+     <img align="center" height="232em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDef4lt&layout=compact&langs_count=7&theme=gotham"/>
   </a>
-  <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=xDef4lt&&hide_border=true&theme=gotham"/>
 </div>
 
 #
