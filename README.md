@@ -94,4 +94,6 @@
   </a>
 </div>
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=048f6c&height=120&section=footer"/>
