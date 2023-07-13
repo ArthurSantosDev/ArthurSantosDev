@@ -66,7 +66,7 @@
    <img align="center" alt="windows" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 </div>  
 
-#
+<!--#
 
 <h2> ➢ 𝑹𝒆𝒅𝒆𝒔 𝑺𝒐𝒄𝒊𝒂𝒊𝒔 </h2>   
 <div align="center">
@@ -79,7 +79,7 @@
   <a href="mailto:contato.arthursantosdev@gmail.com">
     <img align"center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</div>
+</div>-->
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
