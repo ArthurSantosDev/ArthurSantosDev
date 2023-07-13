@@ -64,22 +64,8 @@
 <div>
    <img align="center" alt="linux" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
    <img align="center" alt="windows" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-</div>
-  
-<h2> ➢ 𝑷𝒓𝒐𝒋𝒆𝒕𝒐𝒔</h2>
-   
-<p> <i><b>Confira alguns de meus repositórios:</b></i></p> 
+</div>  
 
-<p> <strong> Projetos Front-End </p>
-<ul type="circle"> 
-  <li><a href="https://login-animado-liart.vercel.app">Tela de Login Responsiva</a>
-  <li><a href="https://calculadora-poo.vercel.app">Calculadora com POO</a>
-  <li><a href="https://relogio-navy.vercel.app">Relógio com JS</a>
-  <li><a href="https://music-player-js-one.vercel.app">Music-player com JS</a>
-  <li><a href="https://quimicafacil.vercel.app">Meu Primeiro Projeto com CSS Grid Layout</a>
-  <li><a href="https://background-slider-tawny.vercel.app/">Slider com JS</a>
-</ul>
-  
 #
 
 <h2> ➢ 𝑹𝒆𝒅𝒆𝒔 𝑺𝒐𝒄𝒊𝒂𝒊𝒔 </h2>   
