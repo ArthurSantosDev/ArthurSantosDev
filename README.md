@@ -66,21 +66,6 @@
    <img align="center" alt="windows" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 </div>  
 
-<!--#
-
-<h2> ➢ 𝑹𝒆𝒅𝒆𝒔 𝑺𝒐𝒄𝒊𝒂𝒊𝒔 </h2>   
-<div align="center">
-  <a href="https://www.linkedin.com/in/arthur-santos-3b61a8267/">
-     <img align"center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/xDef4lt">
-    <img align"center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="mailto:contato.arthursantosdev@gmail.com">
-    <img align"center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>-->
-
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=048f6c&height=120&section=footer"/>
