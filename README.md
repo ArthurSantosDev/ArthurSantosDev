@@ -12,7 +12,7 @@
 <p>Estou sempre procurando aprender e melhorar cada vez mais nessa área.</p>
 
 <ul type="circle">
-   <li> Programador Iniciante 🖥️ 
+   <li> Programador Full-stack Iniciante 🖥️ 
    <li> Designer 🎨
    <li> Estudante de Informática Para Internet no ITB Brasílio Flores de Azevedo, Barueri 🏫
    <li> Atualmente estou aprendendo meu primeiro framework front-end: <strong>Bootstrap</strong> <img width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -27,8 +27,8 @@
 <h2>➢ 𝑮𝒊𝒕𝒉𝒖𝒃 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔</h2>
 <div>
   <a href"https://github.com/ArthurSantosDev">   
-     <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=ArthurSantosDev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-     <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSantosDev&layout=compact&langs_count=7&theme=gotham"/>
+     <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=ArthurSantosDev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+     <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSantosDev&layout=compact&langs_count=7&theme=gotham"/>
   </a>
 </div>
 
