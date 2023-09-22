@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&&size=44&weight=800&pause=1000&color=048f6c&center=true&vCenter=true&width=1000&lines=Prazer+,+Arthur+Santos.)](https://git.io/typing-svg)
 
-<h2 style="color: #bb4949;"> ➢ 𝑺𝒐𝒃𝒓𝒆</h2>
+<h2> ➢ 𝑺𝒐𝒃𝒓𝒆</h2>
 
 <img align="right" height="240em" src="https://media.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" />
 
