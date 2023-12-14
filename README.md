@@ -12,7 +12,7 @@
 <p>Estou sempre procurando aprender e melhorar cada vez mais nessa área.</p>
 
 <ul type="circle">
-   <li> Programador Full-stack Iniciante 🖥️ 
+   <li> Programador Front-End Iniciante 🖥️ 
    <li> Designer 🎨
    <li> Estudante de Informática Para Internet no ITB Brasílio Flores de Azevedo, Barueri 🏫
    <li> Atualmente estou aprendendo meu primeiro framework front-end: <strong>Bootstrap</strong> <img width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
