@@ -2,7 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&&size=44&weight=800&pause=1000&color=048f6c&center=true&vCenter=true&width=1000&lines=Prazer+,+Arthur+Santos.)](https://git.io/typing-svg)
 
-<h2> ➢ 𝑺𝒐𝒃𝒓𝒆</h2>
+<h1 align="center">
+   <a href="https://its-justme.github.io/portfolio-v2/">
+      <font color="048f6c">
+         Acessar Portfólio
+      </font>
+   </a>
+</h1>
+
+<h2> 
+   ➢ 𝑺𝒐𝒃𝒓𝒆
+</h2>
 
 <img align="right" height="240em" src="https://media.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" />
 
@@ -21,7 +31,9 @@
 
 #
 
-<p align="center"><q>A persistência é o caminho do êxito.</q> - Charlie Chaplin</p>
+<p align="center">
+   <q>A persistência é o caminho do êxito.</q> - Charlie Chaplin
+</p>
 
 #
 <h2>➢ 𝑮𝒊𝒕𝒉𝒖𝒃 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔</h2>
@@ -64,6 +76,22 @@
 <div>
    <img align="center" alt="linux" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
    <img align="center" alt="windows" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-</div>  
+</div> 
+
+<h2>➢ 𝑷𝒓𝒐𝒋𝒆𝒕𝒐𝒔</h2> 
+<div style="display: inline-block">
+   <div>
+      <a href="https://github.com/Its-JustMe/previsaoDoTempo">
+         <img src="./previsao-do-tempo.png" height="160em"> <br>
+         <h3>Previsão do Tempo</h3>
+      </a>
+   </div>
+   <div>
+      <a href="https://github.com/Its-JustMe/tradutor-typescript">
+         <img src="./tradutor.png" height="160em"> <br>
+         <h3>Tradutor de Palavras</h3>
+      </a>
+   </div>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=048f6c&height=120&section=footer"/>
