@@ -92,6 +92,12 @@
          <h3>Tradutor de Palavras</h3>
       </a>
    </div>
+   <div>
+      <a href="https://its-justme.github.io/movie-app/">
+         <img src="./movies.png" height="160em"> <br>
+         <h3>Movie App</h3>
+      </a>
+   </div>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=048f6c&height=120&section=footer"/>
