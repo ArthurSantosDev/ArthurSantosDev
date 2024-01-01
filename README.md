@@ -93,7 +93,7 @@
       </a>
    </div>
    <div>
-      <a href="https://its-justme.github.io/movie-app/">
+      <a href="https://github.com/Its-JustMe/movie-app">
          <img src="./movies.png" height="160em"> <br>
          <h3>Movie App</h3>
       </a>
