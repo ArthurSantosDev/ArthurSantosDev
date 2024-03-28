@@ -6,7 +6,7 @@
    ➢ 𝑺𝒐𝒃𝒓𝒆
 </h2>
 
-<img align="right" height="380em" src="https://wallpapercave.com/wp/wp5545118.jpg" />
+<img align="right" height="300em" src="https://wallpapercave.com/wp/wp5545118.jpg" />
 
       const perfil = {
          nome: "Arthur Santos",
