@@ -67,8 +67,8 @@ const maisInformacoes = () => ({
 <h2>➢ 𝑮𝒊𝒕𝒉𝒖𝒃 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔</h2>
 <div>
   <a href"https://github.com/Its-JustMe">   
-     <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=Its-JustMe&show_icons=true&theme=gotham&&border_color=048f6c&include_all_commits=true&count_private=true"/>
-     <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-JustMe&border_color=048f6c&layout=compact&langs_count=7&theme=gotham"/>
+     <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=Its-JustMe&show_icons=true&theme=algolia&&border_color=2f7cd4&include_all_commits=true&count_private=true"/>
+     <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-JustMe&border_color=2f7cd4&layout=compact&langs_count=7&theme=algolia"/>
   </a>
 </div>
 
