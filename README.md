@@ -53,6 +53,7 @@ const sobreMim = {
 const maisInformacoes = () => ({
    portfolio: 'https://its-justme.github.io/portfolio-v2/',
    linkedIn: 'https://www.linkedin.com/in/arthur-santos-3b61a8267/',
+   email: 'contato.arthursantosdev@gmail.com'
 });
 
 ```
