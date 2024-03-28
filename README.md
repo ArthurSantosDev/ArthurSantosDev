@@ -8,7 +8,7 @@
 
 ```javascript
 
-const perfil = {
+const sobreMim = {
    nome: "Arthur Santos",
    idade: 17,
    carreira: "Desenvolvimento Web",
