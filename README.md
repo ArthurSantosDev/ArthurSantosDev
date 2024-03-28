@@ -6,42 +6,56 @@
    ➢ 𝑺𝒐𝒃𝒓𝒆
 </h2>
 
-      const perfil = {
-         nome: "Arthur Santos",
-         idade: 17,
-         carreira: "Desenvolvimento Web",
-         conhecimentos: {
-            linguagens: [
-               'HTML5',
-               'CSS3',
-               'SASS',
-               'JavaScript',
-               'NodeJS',
-               'Python3',
-               'MySql'
-            ],
-            frameworks: [
-               'Express.js',
-               'Bootstrap'
-            ],
-            ferramentas: [
-               'Git e Github',
-               'Visual Studio Code',
-               'Linux OS',
-               'Chrome OS',
-               'Figma',
-               'Vercel',
-               'Render',
-               'Clever Cloud',
-               'MySql Workbench'
-            ],
-         },
-         estudando: [
-            'TypeScript',
-            'React',
-         ]
-      }
+```javascript
 
+const perfil = {
+   nome: "Arthur Santos",
+   idade: 17,
+   carreira: "Desenvolvimento Web",
+   skills: {
+      hardSkills: [
+         'HTML5',
+         'CSS3',
+         'SASS',
+         'JavaScript',
+         'NodeJS',
+         'Python3',
+         'MySql'
+      ],
+      softSkills: [
+         'Organização',
+         'Trabalho em Equipe',
+         'Facilidade em aprender',
+         'Adaptação'
+      ]
+   },
+   frameworks: [
+      'Express',
+      'Bootstrap'
+   ],
+   ferramentas: [
+      'Git e Github',
+      'Visual Studio Code',
+      'Linux OS',
+      'Chrome OS',
+      'Figma',
+      'Vercel',
+      'Render',
+      'Clever Cloud',
+      'MySql Workbench'         
+   ],
+   estudando: [
+      'TypeScript',
+      'React',
+   ]
+}
+
+const maisInformacoes = () => ({
+   portfolio: 'https://its-justme.github.io/portfolio-v2/',
+   linkedIn: 'https://www.linkedin.com/in/arthur-santos-3b61a8267/',
+});
+
+```
 #
 
 <p align="center">
@@ -57,9 +71,4 @@
   </a>
 </div>
 
-<h2>➢ 𝑴𝒂𝒊𝒔</h2>
-<ul>
-   <li>Portfólio: https://its-justme.github.io/portfolio-v2/</li>
-   <li>LinkedIn: https://www.linkedin.com/in/arthur-santos-3b61a8267/</li>
-</ul>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=048f6c&height=120&section=footer"/>
