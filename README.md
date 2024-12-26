@@ -44,6 +44,11 @@ const sobreMim = {
       'Clever Cloud',
       'MySql Workbench'         
    ],
+   formacao: [
+      {
+         "FIEB Tech - Funbdação Instituto de Educação de Barueri": "Técnico em Informática Para Internet"
+      }
+   ],
    estudando: [
       'TypeScript',
       'React',
